@@ -1,5 +1,5 @@
 # Página Inicial do Spotify
-# Projeto desenvolvido durante a Imersão Front-End da Alura, com objetivo de replicar a página inicial do Spotify(22/01/24 a 26/01/24)
+## Projeto desenvolvido durante a Imersão Front-End da Alura(22/01/24 a 26/01/24), com objetivo de replicar a página inicial do Spotify.
 ## Com o intuito de aprimorar a acessibilidade e aplicar conceitos aprendidos na imersão, adicionei um recurso novo: um botão que permite alternar entre os modos claro e escuro da página.
 
 ### Principais Conceitos e Tecnologias Abordados:
@@ -16,6 +16,9 @@
 * Variáveis no CSS: Utilização de variáveis no CSS para tornar o estilo mais flexível e fácil de manter.
 
 * Legibilidade no JavaScript: Práticas para tornar o código JavaScript mais legível e compreensível.
+
+  <img src="./src/assets/icons/darkligth.jpg" alt="Texto Alternativo">
+
 
 #### Contribuições
 Sinta-se à vontade para contribuir com melhorias, correções ou novos recursos para este projeto. Pull requests são bem-vindos!
